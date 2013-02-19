@@ -6076,7 +6076,7 @@ a.badge:focus {
   margin-left: 5px;
   text-indent: -999px;
   background-color: #ccc;
-  background-color: rgba(255, 255, 255, 0.25);
+  background-color: rgba(0, 0, 0, 0.25);
   border-radius: 5px;
 }
 
