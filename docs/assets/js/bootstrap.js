@@ -20,7 +20,7 @@
 
 !function ($) {
 
-  "use strict"; // jshint ;_;
+  "use strict"; 
 
 
   /* CSS TRANSITION SUPPORT (http://www.modernizr.com/)
@@ -57,7 +57,8 @@
 
   })
 
-}(window.jQuery);/* ==========================================================
+}(window.jQuery);
+/* ==========================================================
  * bootstrap-alert.js v2.3.0
  * http://twitter.github.com/bootstrap/javascript.html#alerts
  * ==========================================================
@@ -79,7 +80,7 @@
 
 !function ($) {
 
-  "use strict"; // jshint ;_;
+  "use strict";
 
 
  /* ALERT CLASS DEFINITION
@@ -155,7 +156,8 @@
 
   $(document).on('click.alert.data-api', dismiss, Alert.prototype.close)
 
-}(window.jQuery);/* ============================================================
+}(window.jQuery);
+/* ============================================================
  * bootstrap-button.js v2.3.0
  * http://twitter.github.com/bootstrap/javascript.html#buttons
  * ============================================================
@@ -177,7 +179,7 @@
 
 !function ($) {
 
-  "use strict"; // jshint ;_;
+  "use strict"; 
 
 
  /* BUTTON PUBLIC CLASS DEFINITION
@@ -259,7 +261,8 @@
     $btn.button('toggle')
   })
 
-}(window.jQuery);/* ==========================================================
+}(window.jQuery);
+/* ==========================================================
  * bootstrap-carousel.js v2.3.0
  * http://twitter.github.com/bootstrap/javascript.html#carousel
  * ==========================================================
@@ -281,7 +284,7 @@
 
 !function ($) {
 
-  "use strict"; // jshint ;_;
+  "use strict"; 
 
 
  /* CAROUSEL CLASS DEFINITION
@@ -465,7 +468,8 @@
     e.preventDefault()
   })
 
-}(window.jQuery);/* =============================================================
+}(window.jQuery);
+/* =============================================================
  * bootstrap-collapse.js v2.3.0
  * http://twitter.github.com/bootstrap/javascript.html#collapse
  * =============================================================
@@ -487,7 +491,7 @@
 
 !function ($) {
 
-  "use strict"; // jshint ;_;
+  "use strict"; 
 
 
  /* COLLAPSE PUBLIC CLASS DEFINITION
@@ -631,7 +635,8 @@
     $(target).collapse(option)
   })
 
-}(window.jQuery);/* ============================================================
+}(window.jQuery);
+/* ============================================================
  * bootstrap-dropdown.js v2.3.0
  * http://twitter.github.com/bootstrap/javascript.html#dropdowns
  * ============================================================
@@ -653,7 +658,7 @@
 
 !function ($) {
 
-  "use strict"; // jshint ;_;
+  "use strict"; 
 
 
  /* DROPDOWN CLASS DEFINITION
@@ -818,7 +823,7 @@
 
 !function ($) {
 
-  "use strict"; // jshint ;_;
+  "use strict"; 
 
 
  /* MODAL CLASS DEFINITION
@@ -1066,7 +1071,7 @@
 
 !function ($) {
 
-  "use strict"; // jshint ;_;
+  "use strict"; 
 
 
  /* TOOLTIP PUBLIC CLASS DEFINITION
@@ -1418,7 +1423,7 @@
 
 !function ($) {
 
-  "use strict"; // jshint ;_;
+  "use strict"; 
 
 
  /* POPOVER PUBLIC CLASS DEFINITION
@@ -1532,7 +1537,7 @@
 
 !function ($) {
 
-  "use strict"; // jshint ;_;
+  "use strict"; 
 
 
  /* SCROLLSPY CLASS DEFINITION
@@ -1671,7 +1676,8 @@
     })
   })
 
-}(window.jQuery);/* ========================================================
+}(window.jQuery);
+/* ========================================================
  * bootstrap-tab.js v2.3.0
  * http://twitter.github.com/bootstrap/javascript.html#tabs
  * ========================================================
@@ -1693,7 +1699,7 @@
 
 !function ($) {
 
-  "use strict"; // jshint ;_;
+  "use strict"; 
 
 
  /* TAB CLASS DEFINITION
@@ -1814,7 +1820,8 @@
     $(this).tab('show')
   })
 
-}(window.jQuery);/* =============================================================
+}(window.jQuery);
+/* =============================================================
  * bootstrap-typeahead.js v2.3.0
  * http://twitter.github.com/bootstrap/javascript.html#typeahead
  * =============================================================
@@ -1836,7 +1843,7 @@
 
 !function($){
 
-  "use strict"; // jshint ;_;
+  "use strict";
 
 
  /* TYPEAHEAD PUBLIC CLASS DEFINITION
@@ -2171,7 +2178,7 @@
 
 !function ($) {
 
-  "use strict"; // jshint ;_;
+  "use strict";
 
 
  /* AFFIX CLASS DEFINITION
